@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vlaskozlov
-- 👀 I’m interested in discord bot and frontend site development
-- 🌱 I’m currently learning JS, GO, HTML, CSS
-- 💞️ I’m collaborating with D4rkKaizen
+- 👀 I’m interested in discord bot and frontend site development, probably backend. 
+- 🌱 I’m currently learning JS, ~~GO~~, HTML, CSS, TS.
+- 💞️ I’m collaborating with D4rkKaizen, mirdukkkkk.
 - 📫 How to reach me Discord: @vlaskozlov ~~Vlas Kozlov#6872~~
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlaskozlov&theme=dark)
