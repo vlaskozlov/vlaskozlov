@@ -8,7 +8,7 @@
 
 ![Vlas Kozlov's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlaskozlov&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlaskozlov&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlaskozlov&layout=compact&theme=dark&langs_count=5)
 
 
 <!---
